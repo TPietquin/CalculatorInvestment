@@ -1,4 +1,5 @@
 Calculateur d'Investissement
+
 Ce projet est une application web développée avec React qui permet aux utilisateurs de calculer le rendement potentiel de leurs investissements sur une période donnée. L'application fournit une interface interactive pour saisir les données d'investissement et visualiser les résultats.
 Fonctionnalités
 
